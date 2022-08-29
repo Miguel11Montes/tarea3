@@ -1,0 +1,70 @@
+#headercard{
+	height: 80px;
+	text-align: center;
+	font-family: 'Courier New', Courier, monospace Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	color: rgb(230, 220, 220);
+	margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 50px;	
+}
+
+#datos{
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 20px;
+	text-align:center;
+	background: linear-gradient(#000046, #1cb5e0);
+	color: rgb(238, 237, 237);
+	height: 800px; 
+}
+
+#info{
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 19px;
+	text-align: center;
+	
+}
+
+#bodycard{
+	margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 350px;
+    margin-right: 350px;	
+	background-color: rgb(174, 175, 165);
+	text-align: center;
+}
+
+body{
+	background-color: #000046;
+}
+#card1{
+	background-color: #000046;
+}
+
+img, #im2{
+	margin-left: 30px;
+	width: 150px;
+	height: 150px;
+}
+
+img, #img1{
+	width: 200px;
+	height:250px;
+}
+
+#bodycard1{
+	margin-top: 30px;
+    margin-bottom: 30px;
+	margin-left: 300px;
+	margin-right: 300px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	color: aliceblue;
+}
+button{
+	border-radius: 10PX;
+}
+
+img, #img2{
+	width: 50px;
+	height: 50px;
+}
